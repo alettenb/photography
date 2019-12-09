@@ -1,16 +1,16 @@
 # Base configs
-baseurl: ""
+baseurl: "/photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
+title: "Photography by Alex Lettenberger"
 subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+author: "Alex Lettenberger"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: ""
 footer:
  name: "Hey there, my name is Ram"
  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
@@ -22,4 +22,4 @@ social_urls:
   instagram: "https://www.instagram.com/ram_patra"
   dribbble: "https://dribbble.com/rampatra"
   linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  github: "https://www.github.com/alettenb"
